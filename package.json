@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/teshome28sara/Tech_Blog/issues"
   },
-  "homepage": "https://github.com/teshome28sara/Tech_Blog#readme",
+  
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.5",
