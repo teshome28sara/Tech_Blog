@@ -1,4 +1,4 @@
-#MVC/ Tech Blog
+# MVC/ Tech Blog
 
 ![License](https://img.shields.io/badge/License-GNU-green.svg)
 ![Badge](https://img.shields.io/badge/License-GNU-blue.svg)
@@ -39,7 +39,7 @@ Application is deployed to [Heroku](https://peaceful-sands-79641.herokuapp.com/)
 
 ![Badge](https://img.shields.io/badge/License-GNU-blue.svg)
 <br/> This application is licensed under [GNU](https://www.gnu.org/licenses/licenses.en.html).
-<br/> Copyright &copy; 2022 Mary Villoso, Jamie Otto, Sara Teshome, Mikell Turla
+
 
 ## Contribution
 
@@ -49,7 +49,7 @@ University of Washington coding bootcamp challenge 14 project:
 ## Test
 
 To test this project, please clone the repo and install the necessary npm dependencies.
-</br> For code review go to the [Github  repo](https://github.com/teshome28sara/Tech__Blog)
+</br> For code review go to the [Github  repo](https://github.com/teshome28sara/Tech_Blog)
 </br>For deployed site go to  [Tech Blog](https://peaceful-sands-79641.herokuapp.com/)
 
 ## Questions
