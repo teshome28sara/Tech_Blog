@@ -30,11 +30,6 @@ This application uses `node.js` and `express.js` to create a RESTful API. It als
 </br>`mysql2: ^2.2.5`
 </br>`sequelize: ^6.3.5`
 
-## Usage
-
-Application is deployed to [Heroku](https://peaceful-sands-79641.herokuapp.com/)
-
-
 ## License
 
 ![Badge](https://img.shields.io/badge/License-GNU-blue.svg)
