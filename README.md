@@ -52,4 +52,4 @@ To test this project, please clone the repo and install the necessary npm depend
 
  ### Application Screenshot
 
- ![Tech Blog](Assets/screenshot.png)
+ ![Tech Blog](screenshot.png)
