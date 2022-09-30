@@ -1,4 +1,4 @@
-# MVC/ Tech Blog
+# MVC/ Tech_ Blog
 
 ![License](https://img.shields.io/badge/License-GNU-green.svg)
 ![Badge](https://img.shields.io/badge/License-GNU-blue.svg)
