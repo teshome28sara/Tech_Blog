@@ -50,6 +50,12 @@ To test this project, please clone the repo and install the necessary npm depend
 ## Questions
  tes28sar@gmail.com 
 
- ### Application Screenshot
+ ###  Desktop  Screenshot
 
  ![Tech Blog](screenshot.png)
+
+ ### Moble  Screenshot
+
+ ![Tech Blog](moble.png)
+
+
