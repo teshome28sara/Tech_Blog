@@ -19,7 +19,7 @@ const hbs = exphbs.create({ helpers });
 const sess = {
   secret: process.env.SESSION_SECRET,
   cookie:  {
-    // Session will automatically expire in 10 minutes
+    // Session will automatically logout in 10 minutes
     expires: 10 * 60 * 1000
 },
   resave: false,
