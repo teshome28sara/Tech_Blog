@@ -45,7 +45,7 @@ University of Washington coding bootcamp challenge 14 project:
 
 To test this project, please clone the repo and install the necessary npm dependencies.
 </br> For code review go to the [Github  repo](https://github.com/teshome28sara/Tech_Blog)
-</br>For deployed site go to  [Tech Blog](https://peaceful-sands-79641.herokuapp.com/)
+</br>For deployed site go to  [Tech Blog](https://hidden-basin-39946.herokuapp.com/)
 
 ## Questions
  tes28sar@gmail.com 
